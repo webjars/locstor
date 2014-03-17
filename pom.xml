@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>locstor</artifactId>
-    <version>1.0.7-SNAPSHOT</version>
+    <version>1.0.7</version>
     <name>Locstor.js</name>
     <description>WebJar for Locstor.js</description>
     <url>http://webjars.org</url>
@@ -36,7 +36,7 @@
         <url>http://github.com/webjars/locstor</url>
         <connection>scm:git:https://github.com/webjars/locstor.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/locstor.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>locstor-1.0.7</tag>
     </scm>
    
     <properties>
